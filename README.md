@@ -1,6 +1,6 @@
 # Batch vs Realtime Lab
 
-Educational lab for demonstrating:
+Lab for demonstrating:
 - Batch processing
 - Realtime systems
 - Event streams
@@ -28,7 +28,7 @@ tail -f data/payments.csv
 
 # Batch vs Realtime Lab
 
-Educational Docker lab for teaching:
+ Docker lab for learning:
 
 - Big Data
 - Distributed systems
@@ -50,7 +50,7 @@ This lab simulates a simplified payment platform similar to:
 - Klarna
 - PayPal
 
-Students will work with:
+We will work with:
 
 - realtime fraud detection
 - batch analytics
